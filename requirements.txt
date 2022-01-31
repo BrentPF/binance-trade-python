@@ -1,0 +1,5 @@
+binance==0.3
+binance_connector==1.7.0
+pandas==1.2.3
+python-dotenv==0.19.2
+ta==0.7.0
