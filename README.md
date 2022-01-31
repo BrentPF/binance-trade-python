@@ -4,5 +4,7 @@ The Ontario Securities Commission (OSC) is notifying investors that Binance is n
 This script is no longer maintained and should be used for reference.
 
 Libraries:
+
 [Technical Analysis Library in Python](https://technical-analysis-library-in-python.readthedocs.io/en/latest/index.html)
+
 [Binance Connector Python](https://github.com/binance/binance-connector-python)
